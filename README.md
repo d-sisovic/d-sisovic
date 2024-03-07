@@ -1,0 +1,3 @@
+- 👋 Hello, I'm Daniel Sisovic
+- 👀 I'm interested in FE Web/Hybrid mobile app development
+- 📫 You can either reach me on Linkedin: https://www.linkedin.com/in/daniel-%C5%A1i%C5%A1ovi%C4%87-0838a617b/ or by email: d.sisovic777@gmail.com
